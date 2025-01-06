@@ -1,0 +1,23 @@
+
+:root{
+    --white: #F2F2F2;
+    --black: #262624;
+    --beige: #A29A83;
+}
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    border: none;
+
+}
+
+
+body{
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+
